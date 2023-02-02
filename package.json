@@ -1,0 +1,24 @@
+{
+  "name": "geolocationnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImMikeC/geolocationNodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImMikeC/geolocationNodeJS/issues"
+  },
+  "homepage": "https://github.com/ImMikeC/geolocationNodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "geolocation": "^0.2.0"
+  }
+}
